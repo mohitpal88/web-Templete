@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <table border="1">
+        <tr>
+            <td width="100%" colspan="4" align="center" bgcolor="navyblue">
+                <h1> Buy Sofa in Cheap Price</h1>
+            </td>
+        </tr>
+
+        <tr>
+            <td width="25%" align="center" bgcolor="#62705e" colspan="1">
+                <a href="">Product </a>
+
+            </td>
+            <td width="25%" align="center" bgcolor="#62705e" colspan="1">
+                <a href=""> Offers</a>
+            </td>
+            <td width="25%" align="center" bgcolor="#62705e" colspan="1">
+                <a href=""> New </a>
+            </td>
+            <td align="center" bgcolor="#62705e" width="25%" colspan="1">
+                <a href=""> Contact Us </a>
+
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4">
+                <p align="justify">
+
+                    <img src="sofa.jfif" alt="" width="100%">
+                    <hr>
+                    sapiente repellat ab itaque tempore exceptui error, est ex quo eaque et animi, iure deleniti?
+                    Maiores, exercitationem? Tempore minus ad officiis temporibus corporis pariatur officia ipsa
+                    doloribus, eos ullam magni quia quisquam voluptatem ut ipsam. Labore deleniti excepturi corrupti.
+                    Ullam, vel architecto repudiandae repellendus accusamus alias? At libero molestiae, recusandae
+                    voluptatum fuga nulla ex dolor debitis, rem quibusdam adipisci totam magni distinctio id quaerat,
+                    nesciunt eveniet autem. Minima velit voluptas suscipit, culpa iusto libero eos architecto eveniet
+                    sequi sit hic, odit nesciunt rem rerum beatae. Ad, sunt corporis praesentium at fugit ipsum non
+                    maxime dignissimos consectetur necessitatibus vel facere impedit asperiores molestias dolores quasi
+                    hic accusantium autem, veniam aperiam, suscipit itaque voluptatem? Quasi dolore, rerum ratione quae
+                    debitis asperiores tenetur exercitationem blanditiis adipisci nisi molestias veritatis repellendus
+                    laudantium? Recusandae reprehenderit quisquam nisi quis exercitationem voluptate iusto voluptas
+                    consectetur ut, et deleniti assumenda est nulla aperiam, repudiandae reiciendis perspiciatis ipsa
+                    minus suscipit voluptatum dolore! Illum enim aperiam sapiente, provident sit qui quo veritatis nihil
+                    tenetur rem, consequuntur, cumque consectetur necessitatibus natus ad quaerat doloribus accusamus
+                    assumenda! Voluptas nostrum distinctio atque necessitatibus assumenda! Adipisci quisquam deleniti
+                    fugit aut est ipsum delectus eligendi nostrum quaerat odio animi natus nobis nemo obcaecati nesciunt
+                    eius ea fuga praesentium, impedit nisi? Nihil ducimus, aliquid iusto tenetur enim, sunt itaque
+                    dolores, officia maiores blanditiis qui porro molestias. Voluptate velit quia incidunt, nesciunt
+                    obcaecati distinctio aperiam placeat porro. Dolorem odio provident aliquam aut commodi perferendis
+                    adipisci eligendi optio illo doloribus! Sit animi numquam officia ad corrupti nam deleniti velit
+                    quibusdam atque facere rem consequatur odit quos blanditiis necessitatibus, dignissimos provident
+                    veniam ex non beatae! Quisquam possimus quae animi sint dolor ullam eum, aspernatur consectetur
+                    nesciunt qui. Quam debitis voluptates beatae inventore pariatur dicta repudiandae magnam, excepturi
+                    aliquam itaque odit similique eaque eveniet! Error, eligendi perferendis? Ab nemo hic rem eveniet.
+                    Maxime, ipsa alias sint ut sed magni voluptate aliquam deleniti ea quas quidem distinctio
+                    necessitatibus exercitationem praesentium consequuntur molestiae voluptas qui vitae itaque quaerat
+                    cum aliquid fugiat commodi. Sint iure, officiis similique minima aliquam fugiat, dolore repellat eum
+                    dicta ipsum possimus nemo, veniam tempore omnis. Obcaecati, cum adipisci blanditiis voluptas commodi
+                    sint nulla animi, veniam beatae, ipsam reiciendis! Iure sint dolor cumque quia accusamus enim omnis!
+                    Eveniet et earum dolores totam officia in, nesciunt quaerat itaque sapiente laudantium amet ipsam,
+                    inventore corrupti pariatur reiciendis iusto non! Voluptatibus obcaecati fuga exercitationem quis!
+                    Error atque ad eum cupiditate commodi nisi dolore aliquam accusamus quaerat pariatur voluptatem
+                    recusandae ratione quas labore facilis placeat iusto aspernatur, distinctio dolorem? Mollitia quas
+                    suscipit vel, temporibus placeat quidem corporis eligendi blanditiis pariatur dicta laudantium,
+                    atque modi laboriosam, deleniti maiores doloribus accusantium officia illum voluptatem unde quos
+                    commodi minus reprehenderit molestias. Ea aliquid optio voluptatem quia rerum vitae libero est
+                    voluptas exercitationem quam amet in natus blanditiis veniam laudantium error, dicta quas harum
+                    quisquam? Fuga cum laudantium blanditiis enim ratione tempore perferendis, rem porro ut sequi quae
+                    minima saepe maiores dolore aliquam esse minus delectus?</h1>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" height="80px" width="50%" align="center" bgcolor="#a85a32">
+                <img src="50.png" alt="">
+            </td>
+
+            <td colspan="2" width="50%" align="center" bgcolor="#a85a32">
+                <img src="arravial.jfif" alt="" width="50%">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4">
+                <marquee behavior="" direction="">
+                    <img src="event.png" alt="">
+                </marquee>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
